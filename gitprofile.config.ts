@@ -73,7 +73,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/1unVJS80dXEo_BSwp12pXSMjUNVXlsWdv/view?usp=drive_link'
+      'https://drive.google.com/file/d/1p39L0GGtrDrJkDAoGqhObyujZNqKR_yn/view?usp=sharing'
   },
   skills: [
     'JavaScript',
